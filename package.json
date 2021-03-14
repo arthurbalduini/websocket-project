@@ -1,0 +1,23 @@
+{
+  "name": "websocket-project",
+  "version": "1.0.0",
+  "description": "personal project to better understand websockets",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "websocket-project"
+  },
+  "keywords": [
+    "websocket",
+    "nheco"
+  ],
+  "author": "arthur balduini",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
